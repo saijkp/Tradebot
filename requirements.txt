@@ -1,0 +1,9 @@
+flask
+pandas
+numpy
+yfinance
+ta
+xgboost
+vectorbt
+numba
+alpaca-trade-api
